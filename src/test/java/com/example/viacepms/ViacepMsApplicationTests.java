@@ -8,6 +8,7 @@ class ViacepMsApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
