@@ -5,5 +5,5 @@ Esse é um endpoint simples que retorna informações de um cep, como logradouro
 
 
 // para testar o projeto, baixe o código e rode a classe "ViacepMsApplication"
-// cole no browser http://localhost:8080/viacep/{cep}
-//substitua o {cep} pelo cep que desejar
+e cole no browser http://localhost:8080/viacep/{cep}
+substitua o {cep} pelo cep que desejar
