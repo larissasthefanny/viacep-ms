@@ -28,6 +28,9 @@ public class ZipRestTest {
     @Test
     public void mustRetornSuccess(){
 
+        when(this.zipRest.getCep(58073208))
+                .thenReturn(new cep (58073208, "Rua Aposentado Albertina Cabral Dantas"));
+
         given()
                 .accept(ContentType.JSON)
         .when()
