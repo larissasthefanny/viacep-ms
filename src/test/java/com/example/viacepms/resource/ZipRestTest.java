@@ -1,6 +1,6 @@
-package com.example.viacepms.rest;
+package com.example.viacepms.resource;
 
-import com.example.viacepms.interfaces.ZipService;
+import com.example.viacepms.service.ZipService;
 import io.restassured.http.ContentType;
 import org.apache.http.HttpStatus;
 import org.junit.jupiter.api.BeforeEach;

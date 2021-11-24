@@ -1,6 +1,6 @@
-package com.example.viacepms.rest;
+package com.example.viacepms.resource;
 
-import com.example.viacepms.interfaces.ZipService;
+import com.example.viacepms.service.ZipService;
 import com.example.viacepms.model.Address;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
